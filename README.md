@@ -17,7 +17,7 @@ A Apple disponibiliza um serviço para pesquisar a loja iTunes e você o utiliza
 A especificação detalhada deste serviço pode ser encontrada em: http://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
 Mas será utilizada basicamente a seguinte chamada para montagem das telas:
-https://itunes.apple.com/search?term=aerosmith&entity=music 
+https://itunes.apple.com/search?term=aerosmith&entity=musicTrack 
 
 (Atenção: devem ser utilizadas requisições assincronas)
 
